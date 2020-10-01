@@ -1,3 +1,4 @@
+Hey! Welcome
 This is the source code for http://randomiseme.org
 
 ### Contributing
@@ -11,3 +12,4 @@ Development environment as a vagrant VM available [here](https://github.com/open
 Superuser already created: super/super1
 
 Source code mounted to host at ./src/randomise.me
+Thank You!
